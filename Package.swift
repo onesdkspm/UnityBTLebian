@@ -16,8 +16,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "UnityBTLebian",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTLebian/2.0.3-dev-1481412/UnityBTLebian.xcframework.zip",
-            checksum: "694ce373e9a560b7aaa508aec8805640b9d195490d6d433f96106b63251774e8"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTLebian/2.0.3-dev-1482629/UnityBTLebian.xcframework.zip",
+            checksum: "ef3e2cace0899af5cc9b321c80f9016291d3b4a459e4b9a9e26c6846af929504"
         )
     ]
 )
